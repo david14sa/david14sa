@@ -13,9 +13,34 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-![HTML5](https://img.shields.io/badge/HTML5-Estructura%20Sem%C3%A1ntica-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Dise%C3%B1o%20Responsive%20%26%20Layouts-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Interactividad%20%26%20DOM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<details>
+  <summary><b>💻 Desarrollo Web Frontend (HTML5, CSS3, JS)</b></summary>
+  <br>
+  <ul>
+    <li>Maquetación semántica y accesible con <b>HTML5</b>.</li>
+    <li>Diseños adaptables a cualquier dispositivo con <b>CSS3</b> (Flexbox, Grid, Variables).</li>
+    <li>Creación de interfaces dinámicas e interactivas con <b>JavaScript (ES6+)</b>.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📡 Redes y Sistemas (Cisco CCNA 1)</b></summary>
+  <br>
+  <ul>
+    <li>Fundamentos de redes y arquitectura de red.</li>
+    <li>Direccionamiento IP (IPv4 / IPv6) y subredes (Subnetting).</li>
+    <li>Configuración e interconexión de dispositivos (Routers, Switches, Modelos OSI y TCP/IP).</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>☁️ Cloud Computing (AWS)</b></summary>
+  <br>
+  <ul>
+    <li>Introducción a la arquitectura en la nube de Amazon Web Services.</li>
+    <li>Nociones de servicios fundamentales: computación, almacenamiento y redes virtuales.</li>
+  </ul>
+</details>
 
 ---
 

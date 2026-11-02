@@ -1,41 +1,30 @@
-# ¡Hola! Soy David Sanchez 👋
+# Hi there, I'm David Sánchez 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy estudiante del **Grado Superior de Administración de Sistemas Informáticos en Red (ASIR)** 🚀. Me apasiona la tecnología, la infraestructura y explorar el mundo, tanto en tierra firme como bajo el agua 🌊.
-
----
-
-### 💻 Sobre mí
-
-* 🎓 Actualmente cursando **1º de ASIR**.
-* ⚡ Mis mayores pasiones dentro del grado son la **Administración de Redes** y la **Implantación de Sistemas Operativos**.
-* 🛠️ Me enfoco en aprender a diseñar, desplegar y optimizar infraestructuras de red y entornos de sistemas robustos y seguros.
+📸 **Fotógrafo** (tierra y bajo el agua) & 💻 **Apasionado de la tecnología y el desarrollo web**.
 
 ---
 
-### 📸 Mis Aficiones y Pasiones
-
-Cuando me alejo de la pantalla y de las terminales, me puedes encontrar explorando la naturaleza y capturando momentos únicos:
-
-* 🥽 **Buceo y Fotografía Subacuática:** Explorando las profundidades del océano y retratando la vida marina.
-* 🏔️ **Fotografía de Paisaje:** Capturando la belleza de los entornos naturales.
-* ⏱️ **Fotografía de Larga Exposición:** Jugando con la luz y el tiempo en cada toma.
-* 🌌 **Astrofotografía:** Fotografiando el cielo nocturno y las maravillas del cosmos.
+### 🚀 Sobre mí
+- 🌊 Exploro el mundo subacuático con mi cámara y capturo paisajes y fotografía nocturna en superficie.
+- 🌐 Creando y manteniendo mi portafolio web alojado en GitHub Pages.
+- 📬 Puedes contactarme en: **david14sa@gmail.com**
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-
-* **Sistemas Operativos:** Linux (Debian, Ubuntu), Windows Server.
-* **Redes:** Protocolos TCP/IP, Routing & Switching, Configuración de redes locales.
-* **Fotografía y Edición:** [Añade aquí tu software de edición preferido, ej: Adobe Lightroom, Photoshop, etc.]
-
----
-
-### 📬 ¿Hablamos?
-
-
-* **Correo:** davibuzo@gmail.com
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/github%20pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-> *"Explorando el mundo desde las profundidades del mar hasta el espacio exterior, y conectándolo a través de las redes."*
+### 🌟 Proyectos destacados
+- [📷 **Dos mundos, una cámara**](https://david14sa.github.io/): Mi portafolio web personal donde combino fotografía terrestre y subacuática con un medidor interactivo de profundidad.
+
+---
+
+### 📊 Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=david14sa&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=david14sa&layout=compact&theme=tokyonight)
